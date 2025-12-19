@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FPL Side Bet App ",
+  "description": "A high-fidelity social betting layer for Fantasy Premier League enthusiasts. Create virtual side wagers, track live gameweek performance, and manage custom prize pools with a professional sports-betting interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
